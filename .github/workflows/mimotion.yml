@@ -2,7 +2,7 @@ name: mimotion
 
 on:
   schedule:
-    - cron: "45 10 * * *"
+    - cron: "15 10 * * *"
   watch:
     types: [started]
 
